@@ -1,9 +1,9 @@
 import java.util.Scanner;
 class E03 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number:");
-        double number = input.nextDouble();
+        int number = scanner.nextDouble();
         if(number > 0) {
         System.out.println("Positive number");
         }
