@@ -3,7 +3,7 @@ class E07 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Which multiplicand multiplication table to show?");
-        int num1 = input.nextInt();
+        int num1 = scanner.nextInt();
         System.out.print("Until which multiplier?");
         int num2 = scanner.nextInt();
         for (int i = 0; i <= num2; i++) {
