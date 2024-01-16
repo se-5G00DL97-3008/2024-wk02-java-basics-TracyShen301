@@ -4,7 +4,7 @@ class E01 {
     float y = 5.5f;
     boolean flag = true;
     String letter = "c";
-    short year = 2002;
+    short year = 2022;
     long population = 7000000000L;
     byte num = 100;
     double pi = 3.13457599923384753929348;
