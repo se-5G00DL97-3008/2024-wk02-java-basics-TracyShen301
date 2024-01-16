@@ -7,5 +7,6 @@ class E06 {
         for (int i = 0; i <= 10; i++) {
         int multiplication = i * number;
         System.out.println(i + " x " + number + " = " + multiplication);
+        }
     }
 }
