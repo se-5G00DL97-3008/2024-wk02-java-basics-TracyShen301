@@ -13,7 +13,7 @@ class E09 {
             total += score;
             time++;
             double average = (double)total/time;
-            System.out.println("Average:"+ average);
+            System.out.println("Average: "+ average);
     }
 }
 }
