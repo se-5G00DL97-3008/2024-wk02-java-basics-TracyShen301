@@ -3,8 +3,8 @@ class E01 {
     int x = 10;
     float y = 5.5f;
     boolean flag = true;
-    char letter = 'c';
-    int year = 2002;
+    String letter = "c";
+    short year = 2002;
     long population = 7000000000L;
     byte num = 100;
     double pi = 3.13457599923384753929348;
