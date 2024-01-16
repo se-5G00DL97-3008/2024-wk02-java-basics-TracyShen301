@@ -2,7 +2,7 @@ import java.util.Scanner;
 class E02 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Give a number:");
+        System.out.println("Give a number: ");
         int num1 = input.nextInt();
         System.out.println("Give a number: ");
         int num2 = input.nextInt();
