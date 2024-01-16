@@ -4,7 +4,7 @@ class E07 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Which multiplicand multiplication table to show?");
         int num1 = scanner.nextInt();
-        System.out.print("Until which multiplier?");
+        System.out.println("Until which multiplier?");
         int num2 = scanner.nextInt();
         for (int i = 0; i <= num2; i++) {
         int multiplication = i * num1;
