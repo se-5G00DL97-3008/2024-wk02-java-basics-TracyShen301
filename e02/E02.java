@@ -4,7 +4,7 @@ class E02 {
         Scanner input = new Scanner(System.in);
         System.out.println("Give a number:");
         double num1 = input.nextDouble();
-        System.out.print("Give another number: ");
+        System.out.println("Give another number: ");
         double num2 = input.nextDouble();
 
         double sum = num1 + num2;
