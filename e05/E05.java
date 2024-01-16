@@ -36,7 +36,7 @@ class E05 {
         break;
                 
     default:
-        dayName = "Only 7 days in a week";
+        String dayName = "Only 7 days in a week";
         System.out.println(dayName);
         }
 
